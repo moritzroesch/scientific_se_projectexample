@@ -1,4 +1,4 @@
-from src.scientific_se_projectexample.calculator import calculator
+from scientific_se_projectexample import calculator
 
 def test_add():
     assert calculator.add(2,5) == 7
