@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/scientifc_se_projectexample.egg-info/PKG-INFO
+src/scientifc_se_projectexample.egg-info/SOURCES.txt
+src/scientifc_se_projectexample.egg-info/dependency_links.txt
+src/scientifc_se_projectexample.egg-info/requires.txt
+src/scientifc_se_projectexample.egg-info/top_level.txt
+src/scientific_se_projectexample/__init__.py
+src/scientific_se_projectexample/example.py
+tests/test_main.py

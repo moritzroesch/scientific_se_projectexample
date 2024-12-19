@@ -1,0 +1,15 @@
+[project]
+name = "scientifc_se_projectexample"
+version = "1.0.0"
+description = "A short description of your project."
+requires-python=">=3.11"
+authors = [
+    {name = "Moritz Rösch", email = "moritz.roesch@dlr.de"}
+]
+readme = "README.md"
+
+
+dependencies = [
+    "numpy",
+    "pandas"
+]

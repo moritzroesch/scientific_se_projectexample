@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: scientifc_se_projectexample
+Version: 1.0.0
+Summary: A short description of your project.
+Author-email: Moritz Rösch <moritz.roesch@dlr.de>
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
