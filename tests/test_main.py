@@ -1,6 +1,5 @@
-#from scientific_se_projectexample import example
+from scientific_se_projectexample import calculator
 
-def test_main():
-    assert(True)
+def test_add():
+    assert calculator.add(2,5) == 7
 
-#example.print_something("hello")
