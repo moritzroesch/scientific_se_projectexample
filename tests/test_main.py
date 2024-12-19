@@ -7,6 +7,8 @@ def test_subtract():
     assert calculator.subtract(0, 3) == -3
 def test_multiply():
     assert calculator.multiply(2,5) == 10
+def test_divide():
+    assert calculator.divide(10,5) == 2
     
 # add more tests here 
 if __name__ == "__main__":
